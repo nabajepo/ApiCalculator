@@ -55,10 +55,11 @@ The API exposes simple endpoints of the form:
 Open : http://localhost:8080/calculator/add/1/2
 
 **Using Curl**
-curl http://localhost:8080/calculator/add/1/2
-curl http://localhost:8080/calculator/subtract/10/3
-curl http://localhost:8080/calculator/multiply/4/5
-curl http://localhost:8080/calculator/divide/10/2
+
+curl http://localhost:8080/calculator/add/1/2 <br>
+curl http://localhost:8080/calculator/subtract/10/3 <br>
+curl http://localhost:8080/calculator/multiply/4/5 <br>
+curl http://localhost:8080/calculator/divide/10/2 <br>
 
 
 

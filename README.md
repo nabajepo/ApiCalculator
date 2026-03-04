@@ -43,7 +43,7 @@ The API exposes simple endpoints of the form:
 
 ## Run locally
 
-From root folder 
+From the repository root
 
 ### Start the server
 ```bash

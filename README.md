@@ -43,6 +43,8 @@ The API exposes simple endpoints of the form:
 
 ## Run locally
 
+From root folder 
+
 ### Start the server
 ```bash
 ./gradlew bootRun # The API will run on: http://localhost:8080
